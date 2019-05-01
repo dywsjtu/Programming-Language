@@ -1,0 +1,4 @@
+add_to_all(a, [[b], [c, d]], X), !.
+add_to_all(a, [[b, c], [b], [foo]], X), !.
+add_to_all(X, [[c], [d, e], []], [[b, c], [b, d, e], [b]]), !.
+add_to_all(X, Y, [[b, c], [b, e], [b]]), !.

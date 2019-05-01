@@ -1,0 +1,7 @@
+assign([[fe, 3], [wei, 2], [gwyn, 3], [ting, 1]],
+       [fe, gwyn, wei], Person, Rank), !.
+
+findall([Person, Rank],
+        assign([[fe, 3], [wei, 2], [gwyn, 3], [ting, 1]],
+               [fe, gwyn, wei], Person, Rank),
+        Results).

@@ -1,0 +1,4 @@
+unzip([a, b, c, d, e], Evens, Odds), !.
+unzip([a, b, c, d, e, f], Evens, Odds), !.
+unzip(X, [a, b, c], [d, e, f]), !.
+unzip(X, [a, b, c], [d, e]), !.

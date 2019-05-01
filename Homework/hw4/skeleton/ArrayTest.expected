@@ -1,0 +1,55 @@
+rank: 1
+size: 10
+shape: (10)
+array1[0] = 0
+array1[1] = 1
+array1[2] = 2
+array1[3] = 3
+array1[4] = 4
+array1[5] = 5
+array1[6] = 6
+array1[7] = 7
+array1[8] = 8
+array1[9] = 9
+rank: 2
+size: 12
+shape: (3,4)
+array2[0,0] = 0.1
+array2[0,1] = 1.1
+array2[0,2] = 2.1
+array2[0,3] = 3.1
+array2[1,0] = 4.1
+array2[1,1] = 5.1
+array2[1,2] = 6.1
+array2[1,3] = 7.1
+array2[2,0] = 8.1
+array2[2,1] = 9.1
+array2[2,2] = 10.1
+array2[2,3] = 11.1
+rank: 3
+size: 24
+shape: (2,3,4)
+array3[0,0,0] = i0
+array3[0,0,1] = i1
+array3[0,0,2] = i2
+array3[0,0,3] = i3
+array3[0,1,0] = i4
+array3[0,1,1] = i5
+array3[0,1,2] = i6
+array3[0,1,3] = i7
+array3[0,2,0] = i8
+array3[0,2,1] = i9
+array3[0,2,2] = i10
+array3[0,2,3] = i11
+array3[1,0,0] = i12
+array3[1,0,1] = i13
+array3[1,0,2] = i14
+array3[1,0,3] = i15
+array3[1,1,0] = i16
+array3[1,1,1] = i17
+array3[1,1,2] = i18
+array3[1,1,3] = i19
+array3[1,2,0] = i20
+array3[1,2,1] = i21
+array3[1,2,2] = i22
+array3[1,2,3] = i23

@@ -1,0 +1,5 @@
+set_prolog_flag(answer_write_options,
+                [ quoted(true), portray(true),
+                  spacing(next_argument)
+                ]). % prevent answer from getting cut off
+sublists([1, 2, 3], X), !.

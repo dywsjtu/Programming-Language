@@ -1,0 +1,3 @@
+Finding declarations...
+Error (1) at line 3: redefinition of type A
+1 error generated in phase 1.

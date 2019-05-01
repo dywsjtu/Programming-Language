@@ -1,0 +1,7 @@
+string
+"hello world"
+string
+"hello
+world"
+string
+"string with \\\"escape\"\\ sequences"

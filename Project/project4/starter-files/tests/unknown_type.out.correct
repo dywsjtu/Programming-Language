@@ -1,0 +1,14 @@
+Finding declarations...
+Resolving types...
+Error (2) at line 1: undefined type foo
+Error (2) at line 1: undefined type bar
+Error (2) at line 3: undefined type baz
+Error (2) at line 3: undefined type world
+Error (2) at line 3: undefined type fie
+Error (2) at line 4: undefined type asdf
+Error (2) at line 5: undefined type zxcv
+Error (2) at line 6: undefined type C
+Error (2) at line 6: undefined type D
+Error (2) at line 7: undefined type E
+Error (2) at line 7: undefined type F
+11 errors generated in phase 2.

@@ -1,0 +1,11 @@
+Evens = [a, c, e],
+Odds = [b, d].
+
+Evens = [a, c, e],
+Odds = [b, d, f].
+
+X = [a, d, b, e, c, f].
+
+X = [a, d, b, e, c].
+
+

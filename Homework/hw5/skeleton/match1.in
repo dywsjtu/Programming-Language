@@ -1,0 +1,4 @@
+sorted_match([[task1, [fe, 1], [gwyn, 1]], [task2, [fe, 2]],
+              [task3, [wei, 1], [gwyn, 2], [ting, 2]],
+              [task4, [wei, 2], [ting, 1]]],
+             [fe, wei, gwyn, ting], A), !.
